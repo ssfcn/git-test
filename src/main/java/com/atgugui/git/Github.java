@@ -12,5 +12,6 @@ public class Github {
         System.out.println("hot-fix stash-test04");
         System.out.println("master stash-test04");
         System.out.println("push stash-test04");
+        System.out.println("push stash-test04");
     }
 }
