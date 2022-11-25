@@ -13,5 +13,6 @@ public class Github {
         System.out.println("master stash-test04");
         System.out.println("push stash-test04");
         System.out.println("push stash-test04");
+        System.out.println("push test");
     }
 }
