@@ -9,5 +9,6 @@ public class Github {
         System.out.println("hot-fix test2");
         System.out.println("master test2");
         System.out.println("master stash-test03");
+        System.out.println("master stash-test04");
     }
 }
